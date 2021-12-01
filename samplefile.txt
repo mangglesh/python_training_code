@@ -1,0 +1,5 @@
+line1line2line3line4
+line4
+
+ i will use pointer
+ i will use pointer
